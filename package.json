@@ -7,7 +7,7 @@
     "url": "git://github.com/benjifx/ui-select.git"
   },
   "style": "dist/select.css",
-  "version": "0.16.0",
+  "version": "1.0.0",
   "devDependencies": {
     "bower": "~1.3",
     "conventional-changelog": "^0.5.3",

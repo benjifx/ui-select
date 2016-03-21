@@ -1,7 +1,7 @@
 /*!
  * ui-select
  * http://github.com/benjifx/ui-select
- * Version: 0.16.0 - 2016-03-21T04:27:09.746Z
+ * Version: 1.0.0 - 2016-03-21T05:52:01.755Z
  * License: MIT
  */
 
