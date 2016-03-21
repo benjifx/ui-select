@@ -1,10 +1,10 @@
 {
   "name": "ui-select",
   "main": "dist/select.js",
-  "author": "http://github.com/angular-ui/ui-select/graphs/contributors",
-  "homepage": "http://github.com/angular-ui/ui-select",
+  "author": "http://github.com/benjifx/ui-select/graphs/contributors",
+  "homepage": "http://github.com/benjifx/ui-select",
   "repository": {
-    "url": "git://github.com/angular-ui/ui-select.git"
+    "url": "git://github.com/benjifx/ui-select.git"
   },
   "version": "0.13.2",
   "devDependencies": {
